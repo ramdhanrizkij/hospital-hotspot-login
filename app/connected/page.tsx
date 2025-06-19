@@ -21,7 +21,7 @@ export default function ConnectedPage() {
             <div className="bg-white/20 rounded-full p-3 backdrop-blur-sm">
               <Stethoscope size={28} className="text-white" />
             </div>
-            <h1 className="text-xl font-bold text-white ml-3">RS Connect</h1>
+            <h1 className="text-xl font-bold text-white ml-3">RS Hasan Sadikin</h1>
           </div>
 
           <div className="p-6 text-center">
