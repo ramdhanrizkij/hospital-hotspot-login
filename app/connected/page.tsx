@@ -93,7 +93,7 @@ export default function ConnectedPage() {
             <div className="space-y-3">
               <Button
                 className="w-full bg-gradient-to-r from-teal-500 to-blue-500 hover:from-teal-600 hover:to-blue-600"
-                onClick={() => window.open("https://www.google.com", "_blank")}
+                onClick={() => window.open("https://web.rshs.go.id/")}
               >
                 Mulai Menjelajah
               </Button>

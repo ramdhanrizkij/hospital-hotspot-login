@@ -2,6 +2,7 @@ import { Stethoscope } from "lucide-react";
 import LoginForm from "@/components/login-form";
 import HospitalBanner from "@/components/hospital-banner";
 import Background from "@/public/bg6.jpg";
+
 export default function Home() {
   return (
     <main
